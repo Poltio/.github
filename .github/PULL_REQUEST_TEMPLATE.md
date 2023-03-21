@@ -19,3 +19,5 @@ Please include any checklists or changelogs for your PR
 - [Calculator w/ Multiple Results]({{%widget-host-url%}}/widget/e2b3e203-65df-4bb1-a3ae-93d6fa823426)
 - [input lead & ilk soruda redirect lead & load time changed]({{%widget-host-url%}}/widget/9faef9ac-104e-42fd-b96d-9277a35ad8c4)
 - [skip start]({{%widget-host-url%}}/widget/c1d2dee2-cf3d-401d-bf4b-7ca23c9eafea )
+- [Pool Quiz]({{%widget-host-url%}}/widget/973b9b72-ea64-4380-be36-292fd508a159)
+- [Skip Start w/ One Question]({{%widget-host-url%}}/fceeecec-3ecc-439c-b594-96c9fd537402)

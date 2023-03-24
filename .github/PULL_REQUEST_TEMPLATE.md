@@ -21,3 +21,4 @@ Please include any checklists or changelogs for your PR
 - [skip start]({{%widget-host-url%}}/widget/c1d2dee2-cf3d-401d-bf4b-7ca23c9eafea )
 - [Pool Quiz]({{%widget-host-url%}}/widget/973b9b72-ea64-4380-be36-292fd508a159)
 - [Skip Start w/ One Question]({{%widget-host-url%}}/fceeecec-3ecc-439c-b594-96c9fd537402)
+- [Skip Start w/ Auto Complete]({{%widget-host-url}}/409eb68c-3dbd-4e6c-8c84-2b35dfb38c4a)
